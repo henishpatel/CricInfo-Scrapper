@@ -20,3 +20,9 @@ A web scrapper application which has ability to scrap any tournament fixtures an
   npm install jsdom
   
   ```
+   To run this project use this command
+  
+  ```bash
+  node CricInfo_scrapper.js --excel=WorldCup.csv --dataFolder=data --source=https://www.espncricinfo.com/series/icc-cricket-world-cup-2019-1144415/match-results 
+
+ ```
