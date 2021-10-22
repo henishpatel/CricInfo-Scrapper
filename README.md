@@ -8,6 +8,14 @@ A web scrapper application which has ability to scrap any tournament fixtures an
     - JSDOM -> To make DOM tree just like browser make
     - Excel4Node -> Used to make excel file
     - PDF_LIB -> Used to make pdf
+
+# Features And Functions
+Dowloading data in the form of HTML by making a http request using axios as we are not using any browser so axios will help to achieve this.
+Reading HTML and extracting important and useful information using Jsdom.
+Converting matches to teams using Array Manipulation.
+Making of excel file and adding important stuff in that excel using excel4node library.
+Making pdf and making changes to Template pdf using pdf-lib library.
+ 
 ## To Run this project on Local machine
 First fork this to your profile, then clone it to your desktop
    
