@@ -15,6 +15,12 @@ Reading HTML and extracting important and useful information using Jsdom.
 Converting matches to teams using Array Manipulation.
 Making of excel file and adding important stuff in that excel using excel4node library.
 Making pdf and making changes to Template pdf using pdf-lib library.
+
+# Key Learning
+ - Promises and Callback
+ - JSON read and write
+ - Working with Excel and pdf
+ - Working with DOM
  
 ## To Run this project on Local machine
 First fork this to your profile, then clone it to your desktop
