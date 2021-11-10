@@ -1,5 +1,5 @@
 # CricInfo-Scrapper
-A web scrapper application which has ability to scrap any tournament fixtures and keep those matches in excel and folders.
+I wrote a script using axios, jsdom, excel4node and pdf4lib which scraps WorldCup 2019 scorecards from cricinfo and stores that in excel sheets and pdf form. The purpose of writing this script was to get familiar with using npm modules and promises in JavaScript.
 # Tech-Stack Used
  - JavaScript
  - Libraries used
